@@ -1,4 +1,4 @@
-[![header](./banner.png)](https://aar.one)
+[![header](./banner.gif)](https://mrmendoza.dev)
 
 # Welcome to my Page
 ![Profile Views](https://komarev.com/ghpvc/?username=mrmendoza-dev&style=flat&color=blueviolet)
