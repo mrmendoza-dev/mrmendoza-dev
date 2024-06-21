@@ -2,87 +2,96 @@
 
 
 
-# Welcome to my Page
+
+
+<p align="center">
+
+  <a href="https://mrmendoza.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Courier&weight=800&size=20&duration=4000&pause=1000&color=BF90F2&background=FF2ED838&center=true&vCenter=true&random=false&width=600&height=40&lines=Step+into+my+Digital+Realm;Full+Stack+Web+Developer;Digital+Alchemist;Harnessing+the+Power+of+Code;Click+to+See+More;mrmendoza.dev" alt="Typing SVG" />
+  </a>
+
+</p>
+
+
+
+####
 <div class="github-introduction">
-I'm a Full Stack Web Developer passionate in learning the many parts that go into making websites and applications work. Aside from the technical aspects, I love that web development allows me to implement my unique creative touches to my work. I am also interested in how to integrate my web development skills with hardware, IoT, blockchain, and especially artifical intelligence with all the recent advancements.
+I'm a Full Stack Web Developer passionate in learning the many parts that bring websites and applications to life. Beyond the technical aspects, I love that web development allows me to implement my unique creative elements to my work. I'm particularly interested in seeing how I can integrate my web development skills with hardware, IoT, blockchain, and artificial intelligence to blend technology and creativity in innovative ways.
+</div>
+
+#### My Top Skills
+<div class="badges-main" align="center">
+
+  ![React](https://skillicons.dev/icons?i=react)
+  ![JavaScript](https://skillicons.dev/icons?i=javascript)
+  ![TypeScript](https://skillicons.dev/icons?i=typescript)
+  ![Python](https://skillicons.dev/icons?i=python)
+  ![HTML](https://skillicons.dev/icons?i=html)
+  ![CSS](https://skillicons.dev/icons?i=css)
+  ![C++](https://skillicons.dev/icons?i=cpp)
+  ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+  ![Firebase](https://skillicons.dev/icons?i=firebase)
+  ![Supabase](https://skillicons.dev/icons?i=supabase)
+  
+</div>
+
+<div class="badges-sub" align="center">
+  
+  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=flat-square&logo=tailwind-css)
+  ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql)
+  ![Arduino](https://img.shields.io/badge/Arduino-000000?style=flat-square&logo=arduino)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
+  ![Django](https://img.shields.io/badge/Django-000000?style=flat-square&logo=django)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb)
+  ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-000000?style=flat-square&logo=raspberry-pi)
+  ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=java)
+  ![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify)
+  ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js)
+  ![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visual-studio-code)
+  
 </div>
 
 
-
-
-<div class="badges-intro">
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=#F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=#3178C6)
-![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=#DD0031)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoColor=#777BB4)
-![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&logoColor=#21759B)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=#E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=#1572B6)
-![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=#CC6699)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=#7952B3)
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=#FFCA28)
-
-
-</div>
-
-
-
-
-
-
-## 📈 My GitHub stats
-
-<div class="badges-githubstats">
+<div class="githubstats">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=mrmendoza-dev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github&custom_title=mrmendoza-dev's+Stats" alt="mrmendoza-dev's Stats" height="165">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrmendoza-dev&theme=tokyonight&hide_border=true" alt="mrmendoza-dev's Streak" height="165">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmendoza-dev&layout=donut&theme=tokyonight&hide_border=true" alt="mrmendoza-dev's Languages" height="165">
-
   </p>
-
 </div>
 
+- Want to transform your ideas to reality? I can help make it happen. Reach out via <a href="mailto:mrmendoza171@gmail.com">email</a> or at my <a href="https://mrmendoza.dev">website<a/>. 
 
 
-![](https://komarev.com/ghpvc/?username=mrmendoza-dev&style=flat&color=blueviolet&lable=Profile+Views)
+<div class="views" align="right">
+  
+[![BTC](https://img.shields.io/coincap/price-usd/bitcoin?style=flat&label=BTC&logo=bitcoin&color=000000&labelColor=000000)](https://cryptotracker-mendoza.netlify.app/)
+[![ETH](https://img.shields.io/coincap/price-usd/ethereum?style=flat&label=ETH&logo=ethereum&color=000000&labelColor=000000)](https://cryptotracker-mendoza.netlify.app/)
+[![SOL](https://img.shields.io/coincap/price-usd/solana?style=flat&label=SOL&logo=solana&color=000000&labelColor=000000)](https://cryptotracker-mendoza.netlify.app/)
+[]()
+[]()
+![](https://komarev.com/ghpvc/?username=mrmendoza-dev&style=flat&color=blueviolet&label=Views)
+
+</div>
 
 
 
 <!--
-**mrmendoza-dev/mrmendoza-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I'm a Full Stack Web Developer passionate about exploring the diverse components that make websites and applications function seamlessly. I enjoy working with technologies like React, Node.js, and Django to build efficient and scalable applications. Beyond the technical aspects, I cherish the opportunity web development gives me to infuse my unique creative touches into my projects.
 
-My interests extend to integrating my web development skills with cutting-edge technologies such as hardware, IoT, blockchain, and artificial intelligence. Recently, I completed a project where I integrated IoT devices with a web application to monitor environmental conditions in real-time. With the rapid advancements in AI, I am particularly excited about how it can revolutionize web development and create innovative solutions.
+<div class="social-icons" align="center">
 
-Therefore, my goal is to create innovative, technology-driven applications that not only solve real-world problems but also inspire and delight users.
-
-### Live Crypto Stats
-<div class="badges-intro">
-[![BTC](https://img.shields.io/coincap/price-usd/bitcoin?style=flat&label=BTC&logo=bitcoin&color=000000&labelColor=000000)](https://cryptotracker-mendoza.netlify.app/)
-[![ETH](https://img.shields.io/coincap/price-usd/ethereum?style=flat&label=ETH&logo=ethereum&color=000000&labelColor=000000)](https://cryptotracker-mendoza.netlify.app/)
-[![SOL](https://img.shields.io/coincap/price-usd/solana?style=flat&label=SOL&logo=solana&color=000000&labelColor=000000)](https://cryptotracker-mendoza.netlify.app/)
+ <a href="https://www.linkedin.com/in/mrmendoza-dev/">
+  <img height="48" width="48" src="https://cdn.simpleicons.org/linkedin/hotpink" />
+ </a>
+ <a href="https://medium.com/@mrmendoza-dev">
+  <img height="48" width="48" src="https://cdn.simpleicons.org/medium/hotpink" />
+ </a>
+  <a href="https://codepen.io/mrmendoza-dev">
+  <img height="48" width="48" src="https://cdn.simpleicons.org/codepen/hotpink" />
+ </a>
+ 
 </div>
-React, JavaScript, TypeScript, Python, TailwindCSS, Supabase, Firebase, C++, Arduino
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmendoza-dev&theme=tokyonight&hide_border=true" alt="mrmendoza-dev's Streak" height="165">
-
-
-
-- 💼 Got a freelance gig? Hit me up via <a href="mailto:code@aar.one">email.</a>
-- 💬 Curious? Just ask!
-
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmendoza-dev&layout=donut&theme=tokyonight&hide_border=true" alt="mrmendoza-dev's Languages" height="165">
 
 -->
