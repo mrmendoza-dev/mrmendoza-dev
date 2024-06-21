@@ -65,12 +65,13 @@ I'm a Full Stack Web Developer passionate in learning the many parts that bring 
 
 <div class="views" align="right">
   
+
+
+[![Check out CryptoTracker](https://img.shields.io/badge/Check_out_CryptoTracker-8459CF?style=flat)](https://cryptotracker-mendoza.netlify.app/)
 [![BTC](https://img.shields.io/coincap/price-usd/bitcoin?style=flat&label=BTC&logo=bitcoin&color=000000&labelColor=000000)](https://cryptotracker-mendoza.netlify.app/)
 [![ETH](https://img.shields.io/coincap/price-usd/ethereum?style=flat&label=ETH&logo=ethereum&color=000000&labelColor=000000)](https://cryptotracker-mendoza.netlify.app/)
 [![SOL](https://img.shields.io/coincap/price-usd/solana?style=flat&label=SOL&logo=solana&color=000000&labelColor=000000)](https://cryptotracker-mendoza.netlify.app/)
-[]()
-[]()
-![](https://komarev.com/ghpvc/?username=mrmendoza-dev&style=flat&color=blueviolet&label=Views)
+![](https://komarev.com/ghpvc/?username=mrmendoza-dev&style=flat&color=blueviolet&label=Profile+Views)
 
 </div>
 
