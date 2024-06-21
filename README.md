@@ -19,7 +19,7 @@
 I'm a Full Stack Web Developer passionate in learning the many parts that bring websites and applications to life. Beyond the technical aspects, I love that web development allows me to implement my unique creative elements to my work. I'm particularly interested in seeing how I can integrate my web development skills with hardware, IoT, blockchain, and artificial intelligence to blend technology and creativity in innovative ways.
 </div>
 
-#### My Top Skills
+<h4 align="center">My Top Skills</h4>
 <div class="badges-main" align="center">
 
   ![React](https://skillicons.dev/icons?i=react)
@@ -62,10 +62,14 @@ I'm a Full Stack Web Developer passionate in learning the many parts that bring 
 
 - Want to transform your ideas to reality? I can help make it happen. Reach out via <a href="mailto:mrmendoza171@gmail.com">email</a> or at my <a href="https://mrmendoza.dev">website<a/>. 
 
+<div class="projects" align="left">
+
+<a href="https://pokedex96.com/" target="_blank">
+  <img src="./pokeball.gif" alt="Pokeball" height="100">
+</a>
+</div>
 
 <div class="views" align="right">
-  
-
 
 [![Check out CryptoTracker](https://img.shields.io/badge/Check_out_CryptoTracker-8459CF?style=flat)](https://cryptotracker-mendoza.netlify.app/)
 [![BTC](https://img.shields.io/coincap/price-usd/bitcoin?style=flat&label=BTC&logo=bitcoin&color=000000&labelColor=000000)](https://cryptotracker-mendoza.netlify.app/)
