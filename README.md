@@ -62,10 +62,10 @@ I'm a Full Stack Web Developer passionate in learning the many parts that bring 
 
 - Want to transform your ideas to reality? I can help make it happen. Reach out via <a href="mailto:mrmendoza171@gmail.com">email</a> or at my <a href="https://mrmendoza.dev">website<a/>. 
 
-<div class="projects" align="left">
+<div class="projects" align="right">
 
 <a href="https://pokedex96.com/" target="_blank">
-  <img src="./pokeball.gif" alt="Pokeball" height="100">
+  <img src="./pokeball.gif" alt="Pokeball" height="40">
 </a>
 </div>
 
