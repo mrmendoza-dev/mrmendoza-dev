@@ -60,7 +60,7 @@ I'm a Full Stack Web Developer passionate in learning the many parts that bring 
   </p>
 </div>
 
-- Want to transform your ideas to reality? I can help make it happen. Reach out via <a href="mailto:mrmendoza171@gmail.com">email</a> or at my <a href="https://mrmendoza.dev">website<a/>. 
+- Want to transform your ideas to reality? I can help make it happen. Reach out via <a href="mailto:mrmendoza171@gmail.com">email</a> or thru my <a href="https://mrmendoza.dev">website<a/>. 
 
 <div class="projects" align="right">
 
