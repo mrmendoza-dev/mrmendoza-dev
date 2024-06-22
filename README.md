@@ -44,7 +44,6 @@ I'm a Full Stack Web Developer passionate in learning the many parts that bring 
   ![Django](https://img.shields.io/badge/Django-000000?style=flat-square&logo=django)
   ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb)
   ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-000000?style=flat-square&logo=raspberry-pi)
-  ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=java)
   ![Netlify](https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify)
   ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js)
   ![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite)
