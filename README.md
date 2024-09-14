@@ -64,7 +64,7 @@ I'm a Full Stack Web Developer passionate in learning the many parts that bring 
 <div class="projects" align="right">
 
 <a href="https://pokedex96.com/" target="_blank">
-  <img src="./pokeball.gif" alt="Pokeball" height="40">
+  <img src="./pokeball.gif" alt="Pokeball" height="40" width="40">
 </a>
 </div>
 
