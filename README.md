@@ -28,7 +28,7 @@ I'm a Full Stack Web Developer passionate in learning the many parts that bring 
   ![Python](https://skillicons.dev/icons?i=python)
   ![HTML](https://skillicons.dev/icons?i=html)
   ![CSS](https://skillicons.dev/icons?i=css)
-  ![C++](https://skillicons.dev/icons?i=cpp)
+  ![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss)
   ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
   ![Firebase](https://skillicons.dev/icons?i=firebase)
   ![Supabase](https://skillicons.dev/icons?i=supabase)
