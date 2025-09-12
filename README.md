@@ -59,11 +59,11 @@ I'm a Full Stack Web Developer passionate in learning the many parts that bring 
   </p>
 </div>
 
-- Want to transform your ideas to reality? I can help make it happen. Reach out via <a href="mailto:mrmendoza171@gmail.com">email</a> or thru my <a href="https://mrmendoza.dev">website<a/>. 
+- Want to transform your ideas to reality? I can help make it happen. Reach out via <a href="mailto:stevenmendoza.dev@gmail.com">email</a> or thru my <a href="https://mrmendoza.dev">website<a/>. 
 
 <div class="projects" align="right">
 
-<a href="https://pokedex96.com/" target="_blank">
+<a href="https://pokedex96.netlify.app" target="_blank">
   <img src="./pokeball.gif" alt="Pokeball" height="40" width="40">
 </a>
 </div>
