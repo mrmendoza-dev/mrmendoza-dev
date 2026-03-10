@@ -54,7 +54,6 @@ I'm a Full Stack Web Developer passionate in learning the many parts that bring 
 
 <div class="githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mrmendoza-dev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github&custom_title=mrmendoza-dev's+Stats" alt="mrmendoza-dev's Stats" height="165">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrmendoza-dev&theme=tokyonight&hide_border=true" alt="mrmendoza-dev's Streak" height="165">
   </p>
 </div>
@@ -76,7 +75,7 @@ I'm a Full Stack Web Developer passionate in learning the many parts that bring 
 
 
 <!--
-
+<img src="https://github-readme-stats.vercel.app/api?username=mrmendoza-dev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github&custom_title=mrmendoza-dev's+Stats" alt="mrmendoza-dev's Stats" height="165">
 <div class="views" align="right">
   
 [![Check out CryptoTracker](https://img.shields.io/badge/Check_out_CryptoTracker-9945FF?style=flat)](https://cryptotracker-mendoza.netlify.app/)
